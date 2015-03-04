@@ -2,7 +2,7 @@
 on how to effectively rebase
 
 # git-rebasing
-on how to effectively rebase
+On how to effectively rebase.
 
 # git-rebasing
 on how to effectively rebase
